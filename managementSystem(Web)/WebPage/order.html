@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Make order</title>
+  <style>
+    table.fixed {table-layout:fixed; width:90%;}/*Setting the table width is important!*/
+table.fixed td {overflow:hidden;}/*Hide text outside the cell.*/
+table.fixed td:nth-of-type(1) {width:20px;}/*Setting the width of column 1.*/
+table.fixed td:nth-of-type(2) {width:30px;}/*Setting the width of column 2.*/
+table.fixed td:nth-of-type(3) {width:40px;}/*Setting the width of column 3.*/
+    }
+  </style>
+</head>
+
+<body>
+<script>
+function go_to(place) {
+    window.location = place;
+  }
+  </script>
+  <table class="fixed" width="90%" border="1">
+    <tr>
+      <th colspan="8"><a href="dealer%20.html">Home page</a></th>
+    </tr>
+    <tr>
+      <td colspan="2"><a href="order.html">Make Order</a></td>
+      <td colspan="2"><a href="Update.html">Update Info</a></td>
+      <td colspan="2"><a href ="View.html">View Order</a></td>
+      <td colspan="2"><a href="delete.html">Delete Order record</a></td>
+    </tr>
+    <tr style="text-align:right;">
+      <td , colspan="7">Item number:</td>
+      <td>10</td>
+    </tr>
+    <tr style="text-align:right;">
+      <td colspan="7">Total Price</td>
+      <td>10.00</td>
+    </tr>
+
+
+
+    <tr>
+      <td>sparePartNum</td>
+      <td  colspan="2">sparePartName</td>
+      <td colspan="2">sparePartDescription</td>
+      <td>stockItemQty</td>
+      <td>Price</td>
+      <td>OrderQty</td>
+    </tr>
+    <form onsubmit="window.alert('Order submit');">
+    <tr>
+    
+      <td>A100001<img src="100001.jpg" width="70" height="60"></td>
+      <td  colspan="2">sheet metal 1</td>
+      <td  colspan="2" >Aluminium</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number"  value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>A100002<img src="100002.jpg" width="70" height="60"></td>
+      <td  colspan="2">sheet metal 2</td>
+      <td  colspan="2" >Iron</td>
+      <td>1</td>
+      <td style="text-align:right;">$10.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>A100003<img src="100003.jpg" width="70" height="60"></td>
+      <td  colspan="2">sheet metal 3</td>
+      <td  colspan="2" >sliver</td>
+      <td>1</td>
+      <td style="text-align:right;">$1.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>A100004<img src="100004.jpg" width="70" height="60"></td>
+      <td  colspan="2">sheet metal 4</td>
+      <td  colspan="2" >Bronze</td>
+      <td>1</td>
+      <td style="text-align:right;">$21.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>A100005<img src="100005.jpg" width="70" height="60"></td>
+      <td  colspan="2">sheet metal 5</td>
+      <td  colspan="2" >Carbon</td>
+      <td>1</td>
+      <td style="text-align:right;">$101.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+   
+
+  <tr>
+      <td>B100001<img src="200001.jpg" width="70" height="60"></td>
+      <td  colspan="2">Major Assemblis 1</td>
+      <td  colspan="2" >aluminium</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>B100002<img src="200002.jpg" width="70" height="60"></td>
+      <td  colspan="2">Major Assemblis 2</td>
+      <td  colspan="2" >aluminium</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>B100003<img src="200003.jpg" width="70" height="60"></td>
+      <td  colspan="2">Major Assemblis 3</td>
+      <td  colspan="2" >A pack of soda</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>B100004<img src="200004.jpg" width="70" height="60"></td>
+      <td  colspan="2">Major Assemblis 4</td>
+      <td  colspan="2" >Pack of metal </td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+<tr>
+      <td>B100005<img src="200005.jpg" width="70" height="60"></td>
+      <td  colspan="2">Major Assemblis 5</td>
+      <td  colspan="2" >horsu</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>C100001<img src="300001.jpg" width="70" height="60"></td>
+      <td  colspan="2">Light Components 1</td>
+      <td  colspan="2" >bulbs</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>C100002<img src="300002.jpg" width="70" height="60"></td>
+      <td  colspan="2">Light Components 2</td>
+      <td  colspan="2" >Taillights</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>C100003<img src="300003.jpg" width="70" height="60"></td>
+      <td  colspan="2">Light Components 3</td>
+      <td  colspan="2" >Hazard lights</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>C100004<img src="300004.jpg" width="70" height="60"></td>
+      <td  colspan="2">Light Components 4</td>
+      <td  colspan="2" >horsu</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>C100005<img src="300005.jpg" width="70" height="60"></td>
+      <td  colspan="2">Light Components 5</td>
+      <td  colspan="2" >Fog lights</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>D100001<img src="400001.jpg" width="70" height="60"></td>
+      <td  colspan="2">Accessories 1</td>
+      <td  colspan="2" >bulbs</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>D100002<img src="400002.jpg" width="70" height="60"></td>
+      <td  colspan="2">Accessories 2</td>
+      <td  colspan="2" >nice</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>D100003<img src="400003.jpg" width="70" height="60"></td>
+      <td  colspan="2">Accessories 3</td>
+      <td  colspan="2" >good</td>
+      <td>1</td>
+      <td style="text-align:right;">$11.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>D100004<img src="400004.jpg" width="70" height="60"></td>
+      <td  colspan="2">Accessories 4</td>
+      <td  colspan="2" >hello</td>
+      <td>1</td>
+      <td style="text-align:right;">$0.50</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    <tr>
+      <td>D100005<img src="400005.jpg" width="70" height="60"></td>
+      <td  colspan="2">Accessories 5</td>
+      <td  colspan="2" >radom</td>
+      <td>1</td>
+      <td style="text-align:right;">$1.00</td>
+      <td><input type="number" value="0" style="width: 50px;">/1</td>
+    </tr>
+    
+    <tr style="text-align:right;"><td colspan="8"><input type="submit" value="Submit" onClick="go_to('dealer%20.html');"> </td></tr>
+    </form>
+  </table>
+  
+</body></html>

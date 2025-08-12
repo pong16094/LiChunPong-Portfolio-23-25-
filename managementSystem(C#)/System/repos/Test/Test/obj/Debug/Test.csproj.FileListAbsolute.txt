@@ -1,0 +1,390 @@
+C:\Users\a1\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\a1\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\a1\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\a1\source\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\a1\source\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\a1\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\a1\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\a1\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\a1\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\a1\source\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\a1\source\repos\Test\Test\obj\Debug\Test.CurrentStockqty.resources
+C:\Users\a1\source\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\a1\source\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+E:\21_5_StockRecord\repos\Test\Test\bin\Debug\Test.exe.config
+E:\21_5_StockRecord\repos\Test\Test\bin\Debug\Test.exe
+E:\21_5_StockRecord\repos\Test\Test\bin\Debug\Test.pdb
+E:\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+E:\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+E:\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.CurrentStockqty.resources
+E:\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+E:\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.exe
+E:\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.CurrentStockqty.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\design_StockRecord\21_5_StockRecord\repos\Test\Test\obj\Debug\Test.TestStockC_page.resources
+F:\repos\Test\Test\bin\Debug\Test.exe.config
+F:\repos\Test\Test\bin\Debug\Test.exe
+F:\repos\Test\Test\bin\Debug\Test.pdb
+F:\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+F:\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+F:\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+F:\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+F:\repos\Test\Test\obj\Debug\Test.CurrentStockqty.resources
+F:\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+F:\repos\Test\Test\obj\Debug\Test.TestStockC_page.resources
+F:\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+F:\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+F:\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\repos\Test\Test\obj\Debug\Test.exe
+F:\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.CurrentStockqty.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\repos\Test\Test\obj\Debug\Test.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\obj\Debug\Test.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\bin\Debug\Test.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\bin\Debug\Test.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\repos\Test\Test\bin\Debug\Test.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\bin\Debug\Test.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\bin\Debug\Test.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\bin\Debug\Test.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\bin\Debug\MySql.Data.dll
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\MySql.Data.dll
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Stock_A_record.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Stock_A_record.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.Stock_A_record.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.Stock_A_record.resources
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.Type_C_Stock_record.resources
+C:\Users\a1\Desktop\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.Stock_D_record.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.Stock_A_record.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.Stock_D_record.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.Type_C_Stock_record.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.Stock_A_record.resources
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.Stock_D_record.resources
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.Type_C_Stock_record.resources
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\User\Downloads\combine\combine\repos\Test\Test\obj\Debug\Test.stockRequest.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.stockRequest.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.Stock_A_record.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.Stock_D_record.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.Type_C_Stock_record.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\a1\Downloads\combine(15)\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.stockRequest.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.Stock_A_record.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.Stock_D_record.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.Type_C_Stock_record.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.stockRequest.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.Stock_A_record.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.Stock_D_record.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.Type_C_Stock_record.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.DamagerLevel.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.Main_StockMenu.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.New_StockRecord_Meun.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.ReOrederPage.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.stockRequest.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.Stock_A_record.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.Stock_D_record.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.TestStockB_page.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.Type_C_Stock_record.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.ViewReOrederProcess.resources
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Final_submit_version(1)\repos\Test\Test\bin\Debug\zh-Hant\EntityFramework.resources.dll

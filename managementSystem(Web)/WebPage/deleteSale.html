@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Delete item</title>
+</head>
+
+<body>
+
+  <table class="fixed" width="90%" id="myTable" border="1">
+    <tr>
+      <th colspan="9">Home page</th>
+    </tr>
+    <tr>
+      <td colspan="2"><a href="insert.html">Insert items’ information</a></td>
+      <td colspan="2"><a href="Edit1.html">Edit items’ information</a></td>
+      <td colspan="2"><a href="deleteSale.html">Delete item</a></td>
+      <td colspan="2"><a href="Records.html">Update order records</a></td>
+      <td colspan="2"><a href="report.html">Generate report</a></td>
+    </tr>
+
+    <tr>
+      <td>sparePartNum</td>
+      <td colspan="2">sparePartName</td>
+      <td colspan="3">sparePartDescription</td>
+      <td colspan="2">Price</td>
+      <td></td>
+
+    </tr>
+    <form action="Edit2.html" method="get">
+      <tr id="row1">
+
+        <td>A100001<img src="100001.jpg" width="70" height="60"></td>
+        <td colspan="2" >sheet metal 1</td>
+        <td colspan="3">Aluminium</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Delete" onclick="deleteRow(event)"></td>
+      </tr>
+      <form id="delete" method="post" action="deleteProcess.php">
+        <tr>
+          <td>orderID</td>
+          <td>dealerID</td>
+          <td>salesManagerID</td>
+          <td>orderDateTime</td>
+          <td>deliveryAddress</td>
+          <td>deliveryDate</td>
+          <td>orderStatus</td>
+          <td style="text-align:right;">shipCost</td>
+          <td>Delete</td>
+        </tr>
+
+        <?php
+        require_once('conn.php');
+        $sql = "SELECT * FROM orders";
+        $rs = mysqli_query($conn, $sql) or die(mysqli_error($conn));
+        while ($rc = mysqli_fetch_assoc($rs)) {
+            extract($rc);
+            echo <<<EOD
+        <tr>
+        <td>$orderID</td>
+        <td>$dealerID</td>
+        <td>$salesManagerID</td>
+        <td>$orderDateTime</td>
+        <td>$deliveryAddress</td>
+        <td>$deliveryDate</td>
+        <td>$orderStatus</td>
+        <td style="text-align:right;">\$ $shipCost</td>
+        <td><input type="button" value="Delete Record" onclick="setValue($orderID)"></td>
+        </tr>
+        EOD;
+        }
+        mysqli_free_result($rs);
+        mysqli_close($conn);
+        ?>
+        <input type="hidden" name="orderID" id="orderID">
+      </form>
+  </table>
+
+</body></html>

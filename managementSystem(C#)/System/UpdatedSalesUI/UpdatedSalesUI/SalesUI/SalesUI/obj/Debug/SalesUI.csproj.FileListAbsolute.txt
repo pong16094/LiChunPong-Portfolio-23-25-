@@ -1,0 +1,640 @@
+C:\Users\a1\source\repos\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\a1\source\repos\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\a1\source\repos\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\a1\source\repos\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\a1\source\repos\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\a1\source\repos\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\a1\source\repos\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\a1\source\repos\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\a1\source\repos\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\a1\source\repos\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\a1\source\repos\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\a1\source\repos\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\a1\source\repos\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\tamho\Desktop\Import_BackUP\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\User\Downloads\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+F:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+D:\ITP4915M\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.Up2Date
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.Up2Date
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Cancel.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Cancel.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Cancel.resources
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.CreateSalesOrderPage.resources
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DID.resources
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\a1\Desktop\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Cancel.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\Legend.New_DID.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Update_DID.resources
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Cancel.resources
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\Legend.New_DID.resources
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\User\Downloads\combine\combine\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Update_DID.resources
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Cancel.resources
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\Legend.New_DID.resources
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Update_DID.resources
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Cancel.resources
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\Legend.New_DID.resources
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Update_DID.resources
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Cancel.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\Legend.New_DID.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Update_DID.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.exe
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Cancel.resources
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.DIC.resources
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.EditSalesOrder.resources
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Form1.resources
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\Legend.New_DID.resources
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Properties.Resources.resources
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Record_of_inward_goods.resources
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.Update_DID.resources
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.ViewSalesOrder.resources
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final_submit_version(1)\UpdatedSalesUI\UpdatedSalesUI\SalesUI\SalesUI\obj\Debug\SalesUI.csproj.CopyComplete

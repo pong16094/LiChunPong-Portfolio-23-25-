@@ -1,0 +1,168 @@
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.pdb
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.Properties.Resources.resources
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.exe
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.pdb
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchPage.resources
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchNote.resources
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.GoodRecievedNote.resources
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.dll
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\bin\Debug\MySql.Data.dll
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.xml
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\micha\source\repos\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CopyComplete
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchPage.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchNote.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.GoodRecievedNote.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.Properties.Resources.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CopyComplete
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchPage.resources
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchNote.resources
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.GoodRecievedNote.resources
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(8)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchPage.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchNote.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.GoodRecievedNote.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.Properties.Resources.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CopyComplete
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchPage.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchNote.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.GoodRecievedNote.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.Properties.Resources.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.GenerateResource.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch.5B7363A2.Up2Date
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchPage.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchNote.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.GoodRecievedNote.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.Properties.Resources.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CopyComplete
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.dll
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.xml
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.AssemblyReference.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchPage.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchNote.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.GoodRecievedNote.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.Properties.Resources.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.GenerateResource.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CoreCompileInputs.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CopyComplete
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchPage.resources
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchNote.resources
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.GoodRecievedNote.resources
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.Properties.Resources.resources
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch.5B7363A2.Up2Date
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine\combine\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchPage.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchNote.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.GoodRecievedNote.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.Properties.Resources.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CopyComplete
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchPage.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.DispatchNote.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.GoodRecievedNote.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.Properties.Resources.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.csproj.CopyComplete
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Dispatch_Processing\Dispatch_Processing\obj\Debug\Dispatch_Processing.pdb

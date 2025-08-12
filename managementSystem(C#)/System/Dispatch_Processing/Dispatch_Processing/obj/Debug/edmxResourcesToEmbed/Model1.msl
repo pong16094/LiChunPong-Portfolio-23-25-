@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="lmc1ModelStoreContainer" CdmEntityContainer="lmc1Entities">
+    <EntitySetMapping Name="copy1_4">
+      <EntityTypeMapping TypeName="lmc1Model.copy1_4">
+        <MappingFragment StoreEntitySet="copy1,4">
+          <ScalarProperty Name="OrderNo" ColumnName="OrderNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="copy2_3">
+      <EntityTypeMapping TypeName="lmc1Model.copy2_3">
+        <MappingFragment StoreEntitySet="copy2,3">
+          <ScalarProperty Name="OrderNo" ColumnName="OrderNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="customers">
+      <EntityTypeMapping TypeName="lmc1Model.customer">
+        <MappingFragment StoreEntitySet="customer">
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="DeliveryAddress" ColumnName="DeliveryAddress" />
+          <ScalarProperty Name="ContactName" ColumnName="ContactName" />
+          <ScalarProperty Name="ContactNumber" ColumnName="ContactNumber" />
+          <ScalarProperty Name="InvoiceSetOrderNo" ColumnName="InvoiceSetOrderNo" />
+          <ScalarProperty Name="CustID" ColumnName="CustID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="despatch_instruction_cover_dic_">
+      <EntityTypeMapping TypeName="lmc1Model.despatch_instruction_cover_dic_">
+        <MappingFragment StoreEntitySet="despatch_instruction_cover(dic)">
+          <ScalarProperty Name="OrderNo" ColumnName="OrderNo" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="DeliveryAddress" ColumnName="DeliveryAddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="despatch_instruction_detail_did_">
+      <EntityTypeMapping TypeName="lmc1Model.despatch_instruction_detail_did_">
+        <MappingFragment StoreEntitySet="despatch_instruction_detail(did)">
+          <ScalarProperty Name="OrderNo" ColumnName="OrderNo" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="DeliveryAddress" ColumnName="DeliveryAddress" />
+          <ScalarProperty Name="TotalToDespatach" ColumnName="TotalToDespatach" />
+          <ScalarProperty Name="SalesOfficeDepNO" ColumnName="SalesOfficeDepNO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="disets">
+      <EntityTypeMapping TypeName="lmc1Model.diset">
+        <MappingFragment StoreEntitySet="diset">
+          <ScalarProperty Name="OrderNo" ColumnName="OrderNo" />
+          <ScalarProperty Name="SparesDespatchDepartmentDepNo" ColumnName="SparesDespatchDepartmentDepNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="invoicesets">
+      <EntityTypeMapping TypeName="lmc1Model.invoiceset">
+        <MappingFragment StoreEntitySet="invoiceset">
+          <ScalarProperty Name="OrderNo" ColumnName="OrderNo" />
+          <ScalarProperty Name="ProductNo" ColumnName="ProductNo" />
+          <ScalarProperty Name="InvoiceAddress" ColumnName="InvoiceAddress" />
+          <ScalarProperty Name="DeliveryAddress" ColumnName="DeliveryAddress" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="QuantityDelivered" ColumnName="QuantityDelivered" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="invoicing_section">
+      <EntityTypeMapping TypeName="lmc1Model.invoicing_section">
+        <MappingFragment StoreEntitySet="invoicing_section">
+          <ScalarProperty Name="OrderNo" ColumnName="OrderNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="orders">
+      <EntityTypeMapping TypeName="lmc1Model.order">
+        <MappingFragment StoreEntitySet="orders">
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="lmc1Model.product">
+        <MappingFragment StoreEntitySet="product">
+          <ScalarProperty Name="ProductNo" ColumnName="ProductNo" />
+          <ScalarProperty Name="SparePartsStoreProductNo" ColumnName="SparePartsStoreProductNo" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="QtyInStock" ColumnName="QtyInStock" />
+          <ScalarProperty Name="StockRecordingPartNo" ColumnName="StockRecordingPartNo" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="purchase_order">
+      <EntityTypeMapping TypeName="lmc1Model.purchase_order">
+        <MappingFragment StoreEntitySet="purchase_order">
+          <ScalarProperty Name="LMSerialNumber" ColumnName="LMSerialNumber" />
+          <ScalarProperty Name="StockID" ColumnName="StockID" />
+          <ScalarProperty Name="CustomerUserID" ColumnName="CustomerUserID" />
+          <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+          <ScalarProperty Name="OrderSerial" ColumnName="OrderSerial" />
+          <ScalarProperty Name="DeliveryAddress" ColumnName="DeliveryAddress" />
+          <ScalarProperty Name="ProductNo" ColumnName="ProductNo" />
+          <ScalarProperty Name="OrderQty" ColumnName="OrderQty" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="OrderNo" ColumnName="OrderNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sales_office">
+      <EntityTypeMapping TypeName="lmc1Model.sales_office">
+        <MappingFragment StoreEntitySet="sales_office">
+          <ScalarProperty Name="DepNo" ColumnName="DepNo" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="shipmen">
+      <EntityTypeMapping TypeName="lmc1Model.shipman">
+        <MappingFragment StoreEntitySet="shipman">
+          <ScalarProperty Name="OrderNo" ColumnName="OrderNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="spare_parts_store">
+      <EntityTypeMapping TypeName="lmc1Model.spare_parts_store">
+        <MappingFragment StoreEntitySet="spare_parts_store">
+          <ScalarProperty Name="ProductNo" ColumnName="ProductNo" />
+          <ScalarProperty Name="PdQtyInStack" ColumnName="PdQtyInStack" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="DISetOrderNo" ColumnName="DISetOrderNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="spares_despatch_department">
+      <EntityTypeMapping TypeName="lmc1Model.spares_despatch_department">
+        <MappingFragment StoreEntitySet="spares_despatch_department">
+          <ScalarProperty Name="DeptNo" ColumnName="DeptNo" />
+          <ScalarProperty Name="DespathchQty" ColumnName="DespathchQty" />
+          <ScalarProperty Name="ProductNo" ColumnName="ProductNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="staffs">
+      <EntityTypeMapping TypeName="lmc1Model.staff">
+        <MappingFragment StoreEntitySet="staff">
+          <ScalarProperty Name="StaffID" ColumnName="StaffID" />
+          <ScalarProperty Name="StaffName" ColumnName="StaffName" />
+          <ScalarProperty Name="DepName" ColumnName="DepName" />
+          <ScalarProperty Name="DptNo" ColumnName="DptNo" />
+          <ScalarProperty Name="JobTitle" ColumnName="JobTitle" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="SalesOffDepNo" ColumnName="SalesOffDepNo" />
+          <ScalarProperty Name="SparesDespatchDepartmentDepNo" ColumnName="SparesDespatchDepartmentDepNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="stockrecords">
+      <EntityTypeMapping TypeName="lmc1Model.stockrecord">
+        <MappingFragment StoreEntitySet="stockrecord">
+          <ScalarProperty Name="ProductNo" ColumnName="ProductNo" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="supplies">
+      <EntityTypeMapping TypeName="lmc1Model.supply">
+        <MappingFragment StoreEntitySet="supply">
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="ProductNo" ColumnName="ProductNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="lmc1Model.user">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Job" ColumnName="Job" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

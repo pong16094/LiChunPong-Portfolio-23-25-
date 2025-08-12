@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Update Info</title>
+</head>
+<body>
+ 
+  <table width="90%" border="1">
+    <tr>
+       <th colspan="8"><a href="dealer%20.html">Home page</a></th>
+    </tr>
+    <tr>
+      <td colspan="2"><a href="order.html">Make Order</a></td>
+      <td colspan="2"><a href="Update.html">Update Info</a></td>
+      <td colspan="2"><a href ="View.html">View Order</a></td>
+      <td colspan="2"><a href="delete.html">Delete Order record</a></td>
+    </tr>
+  </table>
+  <form >
+    <label for="dealer_password">Passwrod:</label>
+    <input type="text" id="dealer_password" name="dealer_password" required><br><br>
+    
+    <label for="dealer_number">Contact Number:</label>
+    <input type="text" id="dealer_number" name="dealer_number" required><br><br>
+    
+    <label for="dealer_fax">Fax Number:</label>
+    <input type="text" id="dealer_fax" name="dealer_fax" required><br><br>
+    
+    <label for="dealer_address">Dealer Address:</label>
+    <input type="text" id="dealer_address" name="dealer_address" required><br><br>
+    
+    
+    
+    <input type="submit" value="Update" onBlur="window.alert('Info Updated'); " onClick="go_to('dealer%20.html');">
+  </form>
+<script>
+function go_to(place) {
+    window.location = place;
+  }
+  </script>
+  
+</body>
+</html>

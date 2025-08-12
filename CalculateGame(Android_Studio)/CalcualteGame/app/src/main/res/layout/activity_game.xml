@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/butter"
+    tools:context=".GameActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:id="@+id/tvtime"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:textSize="30dp"
+        android:layout_gravity="center"
+        android:id="@+id/tvqsno"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:textSize="30dp"
+        android:layout_gravity="center"
+        android:id="@+id/tvquestion"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etans"
+        android:inputType="number"
+        android:gravity="center"
+        android:hint="Your Answer"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btans"
+        android:backgroundTint="@color/khaki"
+        android:text="@string/Done"
+        android:onClick="CheckAns"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:id="@+id/tvcheck"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:id="@+id/tvans"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnext"
+        android:visibility="invisible"
+        android:backgroundTint="@color/khaki"
+        android:text="@string/Next"
+        android:onClick="NextQuestion"/>
+
+</LinearLayout>

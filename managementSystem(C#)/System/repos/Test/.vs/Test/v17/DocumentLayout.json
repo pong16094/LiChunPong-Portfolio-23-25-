@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|c:\\users\\t\\desktop\\sem3\\4915m_sem3\\design_stockrecord\\21_5_stockrecord\\repos\\test\\test\\teststockb_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\teststockb_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\teststockc_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\teststockc_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\main_stockmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\main_stockmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\main_stockmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\main_stockmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\currentstockqty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\currentstockqty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\currentstockqty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\currentstockqty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\reorederpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\reorederpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\reorederpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\reorederpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\teststockb_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\teststockb_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\teststockc_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\teststockc_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\damagerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\damagerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\damagerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\damagerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\currentstockqty.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\currentstockqty.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\test\\viewreorederprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{954692C2-520A-4658-AD86-98AB45713E98}|Test\\Test.csproj|solutionrelative:test\\viewreorederprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrentStockqty.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\CurrentStockqty.cs",
+              "RelativeDocumentMoniker": "Test\\CurrentStockqty.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\CurrentStockqty.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Test\\CurrentStockqty.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:26:12.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentStockqty.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\CurrentStockqty.cs",
+              "RelativeDocumentMoniker": "Test\\CurrentStockqty.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\CurrentStockqty.cs",
+              "RelativeToolTip": "Test\\CurrentStockqty.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:15:05.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main_StockMenu.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\Main_StockMenu.cs",
+              "RelativeDocumentMoniker": "Test\\Main_StockMenu.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\Main_StockMenu.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Test\\Main_StockMenu.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:25:13.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main_StockMenu.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\Main_StockMenu.cs",
+              "RelativeDocumentMoniker": "Test\\Main_StockMenu.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\Main_StockMenu.cs",
+              "RelativeToolTip": "Test\\Main_StockMenu.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAiwGcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:26:01.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestStockB_page.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\TestStockB_page.cs",
+              "RelativeDocumentMoniker": "Test\\TestStockB_page.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\TestStockB_page.cs",
+              "RelativeToolTip": "Test\\TestStockB_page.cs",
+              "ViewState": "AQIAACEBAAAAAAAAAAAqwCgBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:20:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestStockB_page.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\TestStockB_page.cs",
+              "RelativeDocumentMoniker": "Test\\TestStockB_page.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\TestStockB_page.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Test\\TestStockB_page.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:23:13.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestStockC_page.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\TestStockC_page.cs",
+              "RelativeDocumentMoniker": "Test\\TestStockC_page.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\TestStockC_page.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Test\\TestStockC_page.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:09:32.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DamagerLevel.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\DamagerLevel.cs",
+              "RelativeDocumentMoniker": "Test\\DamagerLevel.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\DamagerLevel.cs",
+              "RelativeToolTip": "Test\\DamagerLevel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:27:22.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReOrederPage.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\ReOrederPage.cs",
+              "RelativeDocumentMoniker": "Test\\ReOrederPage.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\ReOrederPage.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Test\\ReOrederPage.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:31:27.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReOrederPage.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\ReOrederPage.cs",
+              "RelativeDocumentMoniker": "Test\\ReOrederPage.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\ReOrederPage.cs",
+              "RelativeToolTip": "Test\\ReOrederPage.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:31:37.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestStockC_page.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\TestStockC_page.cs",
+              "RelativeDocumentMoniker": "Test\\TestStockC_page.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\TestStockC_page.cs",
+              "RelativeToolTip": "Test\\TestStockC_page.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:10:53.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CurrentStockqty.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\CurrentStockqty.Designer.cs",
+              "RelativeDocumentMoniker": "Test\\CurrentStockqty.Designer.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\CurrentStockqty.Designer.cs",
+              "RelativeToolTip": "Test\\CurrentStockqty.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:26:24.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DamagerLevel.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\DamagerLevel.cs",
+              "RelativeDocumentMoniker": "Test\\DamagerLevel.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\DamagerLevel.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Test\\DamagerLevel.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:27:06.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewReOrederProcess.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\ViewReOrederProcess.cs",
+              "RelativeDocumentMoniker": "Test\\ViewReOrederProcess.cs",
+              "ToolTip": "C:\\Users\\T\\Desktop\\Sem3\\4915M_Sem3\\design_StockRecord\\21_5_StockRecord\\repos\\Test\\Test\\ViewReOrederProcess.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Test\\ViewReOrederProcess.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:26:08.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

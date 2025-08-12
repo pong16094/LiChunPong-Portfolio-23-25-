@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="lmc1Model.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.5" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="copy1,4">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="OrderNo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="copy2,3">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="OrderNo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="customer">
+    <Key>
+      <PropertyRef Name="CustID" />
+    </Key>
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="255" />
+    <Property Name="DeliveryAddress" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="ContactName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="ContactNumber" Type="int" Nullable="false" />
+    <Property Name="InvoiceSetOrderNo" Type="int" Nullable="false" />
+    <Property Name="CustID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="despatch_instruction_cover(dic)">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="OrderNo" Type="int" Nullable="false" />
+    <Property Name="Date" Type="date" Nullable="false" />
+    <Property Name="DeliveryAddress" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="despatch_instruction_detail(did)">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="OrderNo" Type="int" Nullable="false" />
+    <Property Name="Date" Type="date" Nullable="false" />
+    <Property Name="DeliveryAddress" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="TotalToDespatach" Type="varchar" MaxLength="255" />
+    <Property Name="SalesOfficeDepNO" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="diset">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="OrderNo" Type="int" Nullable="false" />
+    <Property Name="SparesDespatchDepartmentDepNo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="invoiceset">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="OrderNo" Type="int" Nullable="false" />
+    <Property Name="ProductNo" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="InvoiceAddress" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="DeliveryAddress" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Date" Type="date" Nullable="false" />
+    <Property Name="QuantityDelivered" Type="int" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="invoicing_section">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="OrderNo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="orders">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="int" Nullable="false" />
+    <Property Name="CustomerName" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="OrderDate" Type="date" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Comment" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="ProductNo" />
+    </Key>
+    <Property Name="ProductNo" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="SparePartsStoreProductNo" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="QtyInStock" Type="decimal" Precision="10" Scale="0" Nullable="false" />
+    <Property Name="StockRecordingPartNo" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="9" Scale="3" Nullable="false" />
+  </EntityType>
+  <EntityType Name="purchase_order">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="LMSerialNumber" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="StockID" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="CustomerUserID" Type="int" Nullable="false" />
+    <Property Name="OrderDate" Type="date" Nullable="false" />
+    <Property Name="OrderSerial" Type="int" Nullable="false" />
+    <Property Name="DeliveryAddress" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="ProductNo" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="OrderQty" Type="int" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="9" Scale="3" Nullable="false" />
+    <Property Name="Status" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="OrderNo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sales_office">
+    <Key>
+      <PropertyRef Name="DepNo" />
+    </Key>
+    <Property Name="DepNo" Type="int" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="shipman">
+    <Key>
+      <PropertyRef Name="OrderNo" />
+    </Key>
+    <Property Name="OrderNo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="spare_parts_store">
+    <Key>
+      <PropertyRef Name="ProductNo" />
+    </Key>
+    <Property Name="ProductNo" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="PdQtyInStack" Type="int" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="9" Scale="3" Nullable="false" />
+    <Property Name="DISetOrderNo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="spares_despatch_department">
+    <Key>
+      <PropertyRef Name="DeptNo" />
+    </Key>
+    <Property Name="DeptNo" Type="int" Nullable="false" />
+    <Property Name="DespathchQty" Type="int" Nullable="false" />
+    <Property Name="ProductNo" Type="char" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="staff">
+    <Key>
+      <PropertyRef Name="StaffID" />
+    </Key>
+    <Property Name="StaffID" Type="char" MaxLength="8" Nullable="false" />
+    <Property Name="StaffName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="DepName" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="DptNo" Type="int" Nullable="false" />
+    <Property Name="JobTitle" Type="char" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="SalesOffDepNo" Type="int" />
+    <Property Name="SparesDespatchDepartmentDepNo" Type="int" />
+  </EntityType>
+  <EntityType Name="stockrecord">
+    <Key>
+      <PropertyRef Name="ProductNo" />
+    </Key>
+    <Property Name="ProductNo" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="supply">
+    <Key>
+      <PropertyRef Name="ProductNo" />
+    </Key>
+    <Property Name="Price" Type="decimal" Precision="9" Scale="3" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="ProductNo" Type="char" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="UserName" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Job" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="lmc1ModelStoreContainer">
+    <EntitySet Name="copy1,4" EntityType="Self.copy1,4" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="copy2,3" EntityType="Self.copy2,3" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="customer" EntityType="Self.customer" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="despatch_instruction_cover(dic)" EntityType="Self.despatch_instruction_cover(dic)" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="despatch_instruction_detail(did)" EntityType="Self.despatch_instruction_detail(did)" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="diset" EntityType="Self.diset" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="invoiceset" EntityType="Self.invoiceset" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="invoicing_section" EntityType="Self.invoicing_section" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="orders" EntityType="Self.orders" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="product" EntityType="Self.product" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="purchase_order" EntityType="Self.purchase_order" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="sales_office" EntityType="Self.sales_office" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="shipman" EntityType="Self.shipman" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="spare_parts_store" EntityType="Self.spare_parts_store" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="spares_despatch_department" EntityType="Self.spares_despatch_department" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="staff" EntityType="Self.staff" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="stockrecord" EntityType="Self.stockrecord" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="supply" EntityType="Self.supply" Schema="lmc1" store:Type="Tables" />
+    <EntitySet Name="user" EntityType="Self.user" Schema="lmc1" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Order Management</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <script>// Function to fetch the list of orders from the API
+async function fetchOrders() {
+  try {
+    const response = await fetch('http://localhost:5000/orders');
+    const orders = await response.json();
+
+    // Call the function to populate the orders on the webpage
+    populateOrderList(orders);
+  } catch (error) {
+    console.error('Failed to fetch orders:', error);
+  }
+}
+
+// Function to populate the order list on the webpage
+function populateOrderList(orders) {
+  const orderList = document.getElementById('order-list');
+
+  // Clear the existing order list
+  orderList.innerHTML = '';
+
+  // Loop through the orders and create the order elements
+  orders.forEach(order => {
+    const orderItem = document.createElement('div');
+    orderItem.classList.add('order-item');
+
+    const orderId = document.createElement('h3');
+    orderId.textContent = `Order ID: ${order.order_id}`;
+
+    const orderStatus = document.createElement('p');
+    orderStatus.textContent = `Status: ${order.order_status}`;
+
+    const updateButton = document.createElement('button');
+    updateButton.textContent = 'Update';
+    updateButton.addEventListener('click', () => {
+      updateForm(order);
+    });
+
+    orderItem.appendChild(orderId);
+    orderItem.appendChild(orderStatus);
+    orderItem.appendChild(updateButton);
+
+    orderList.appendChild(orderItem);
+  });
+}
+
+// Function to update the form with selected order details
+function updateForm(order) {
+  const updateForm = document.getElementById('update-form');
+  const statusSelect = document.getElementById('status');
+
+  // Set the selected order status in the form
+  statusSelect.value = order.order_status;
+
+  // Add an event listener to the form submission
+  updateForm.addEventListener('submit', event => {
+    event.preventDefault();
+
+    // Get the updated order status from the form
+    const updatedStatus = statusSelect.value;
+
+    // Call the function to update the order with the new status
+    updateOrder(order.order_id, updatedStatus);
+  });
+}
+
+// Function to update an order
+async function updateOrder(orderId, updatedStatus) {
+  try {
+    const updatedOrderData = {
+      order_status: updatedStatus
+      // Include other fields as needed
+    };
+
+    const response = await fetch(`http://localhost:5000/orders/${orderId}`, {
+      method: 'PUT',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(updatedOrderData)
+    });
+
+    if (response.ok) {
+      const updatedOrder = await response.json();
+      console.log('Order updated successfully:', updatedOrder);
+      calculateShippingCost(updatedOrder);
+    } else {
+      const error = await response.text();
+      console.error('Failed to update the order:', error);
+    }
+  } catch (error) {
+    console.error('Failed to update the order:', error);
+  }
+}
+
+// Function to calculate the shipping cost
+async function calculateShippingCost(order) {
+  try {
+    const response = await fetch('http://localhost:5000/shipping-cost', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(order)
+    });
+
+    if (response.ok) {
+      const result = await response.text();
+      console.log('Shipping cost calculation result:', result);
+      displayShippingCost(result);
+    } else {
+      const error = await response.text();
+      console.error('Failed to calculate shipping cost:', error);
+    }
+  } catch (error) {
+    console.error('Failed to calculate shipping cost:', error);</script>
+</head>
+<body>
+  <h1>Order Management</h1>
+
+  <div id="order-list">
+    <!-- The list of orders will be dynamically populated here -->
+  </div>
+
+  <div id="order-details">
+    <h2>Order Details</h2>
+    <form id="update-form">
+      <label for="status">Order Status:</label>
+      <select id="status" name="status">
+        <option value="accepted">Accepted</option>
+        <option value="rejected">Rejected</option>
+      </select>
+      <button type="submit">Update</button>
+    </form>
+    <p id="shipping-cost"></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

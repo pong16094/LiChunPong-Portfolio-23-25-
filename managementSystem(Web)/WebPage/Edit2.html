@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Edit Items' Information</title>
+</head>
+
+<body>
+  <form onsubmit="window.alert('Save Changes'); ">
+    <label for="column1">Item Name:</label>
+    <input type="text" id="column1" name="column1"><br><br>
+    <label for="column2">Item Name:</label>
+    <input type="text" id="column2" name="column2"><br><br>
+
+    <label for="column3">Item Descriptioninput:</label>
+    <input type="text" id="column3" name="column3"><br><br>
+
+    <label for="column4">Stock Item Quantity:</label>
+    <input type="text" id="column4" name="column4"><br><br>
+    
+    <label for="pic"> Insert Image</label><input type="file" id="pic" name="pic" accept="image/png, image/jpeg" /><br>
+    
+    <label for="column5">Item Price:</label>
+    <input type="text" id="column5" name="column5"><br><br>
+
+   <input type="submit" value="Save Changes" onClick="go_to('sale.html');" >
+  </form>
+  <script>
+    function go_to(place) {
+    window.location = place;
+  }
+
+    
+    var rowData = JSON.parse(localStorage.getItem('rowData'));
+
+    if (rowData) {
+      document.getElementById('column1').value = rowData.column1;
+      document.getElementById('column2').value = rowData.column2;
+      document.getElementById('column3').value = rowData.column3;
+      document.getElementById('column4').value = rowData.column4;
+      document.getElementById('column5').value = '$' + rowData.column5.toFixed(4); 
+    }
+    
+  </script>
+</body>
+
+</html>

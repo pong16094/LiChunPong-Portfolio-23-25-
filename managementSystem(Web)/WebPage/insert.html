@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Insert Items' Information</title>
+</head>
+<body>
+  <table class="fixed" width="90%">
+   <tr>
+      <th colspan="8">Home page</th>
+    </tr>
+    <tr>
+      <td colspan="2"><a href="insert.html">Insert items’ information</a></td>
+      <td colspan="2"><a href="Edit1.html">Edit items’ information</a></td>
+      <td colspan="2"><a href="deleteSale.html">Delete item</a></td>
+      <td colspan="2"><a href="Records.html">Update order records</a></td>
+      <td colspan="2"><a href="report.html">Generate report</a></td>
+    </tr>
+  </table>
+  <form action="/insert_items" method="POST">
+   <label for="part_No.">Spare Part Number:</label>
+    <input type="text" id="part_No." name="part_No" required><br><br>
+    
+    <label for="part_cat">Spare Part Category:</label>
+    <input type="text" id="part_cat" name="part_cat" required><br><br>
+    
+    <label for="item_name">Spare Part Name:</label>
+    <input type="text" id="item_name" name="item_name" required><br><br>
+    
+    <label for="pic"> Insert Image</label><input type="file" id="pic" name="pic" accept="image/png, image/jpeg" /><br>
+    
+    <label for="description">Description:</label>
+    <input id="description" name="description" required><br>
+    
+    <label for="Weight">Weight:</label>
+    <input id="Weight" name="Weight" required><br>
+    
+    <label for="STQ">Stock Item Quantity:</label>
+    <input id="STQ" name="STQ" required><br>
+    
+    <label for="price">Item Price:</label>
+    <input type="number" id="price" name="price" required><br><br>
+    
+    <input type="submit" value="Insert">
+  </form>
+</body>
+</html>

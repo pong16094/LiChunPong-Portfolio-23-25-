@@ -1,0 +1,716 @@
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\User\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\User\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\User\source\repos\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.search.resources
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\User\source\repos\Login\Login\obj\Debug\Login.emp.resources
+D:\ITP4915M\Login\Login\bin\Debug\Login.exe.config
+D:\ITP4915M\Login\Login\bin\Debug\Login.exe
+D:\ITP4915M\Login\Login\bin\Debug\Login.pdb
+D:\ITP4915M\Login\Login\bin\Debug\MySql.Data.dll
+D:\ITP4915M\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\ITP4915M\Login\Login\obj\Debug\Login.emp.resources
+D:\ITP4915M\Login\Login\obj\Debug\Login.Form1.resources
+D:\ITP4915M\Login\Login\obj\Debug\Login.admin.resources
+D:\ITP4915M\Login\Login\obj\Debug\Login.search.resources
+D:\ITP4915M\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\ITP4915M\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\ITP4915M\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\ITP4915M\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\ITP4915M\Login\Login\obj\Debug\Login.exe
+D:\ITP4915M\Login\Login\obj\Debug\Login.pdb
+F:\ITP4915M\Login\Login\bin\Debug\Login.exe.config
+F:\ITP4915M\Login\Login\bin\Debug\Login.exe
+F:\ITP4915M\Login\Login\bin\Debug\Login.pdb
+F:\ITP4915M\Login\Login\bin\Debug\MySql.Data.dll
+F:\ITP4915M\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+F:\ITP4915M\Login\Login\obj\Debug\Login.emp.resources
+F:\ITP4915M\Login\Login\obj\Debug\Login.Form1.resources
+F:\ITP4915M\Login\Login\obj\Debug\Login.admin.resources
+F:\ITP4915M\Login\Login\obj\Debug\Login.search.resources
+F:\ITP4915M\Login\Login\obj\Debug\Login.Properties.Resources.resources
+F:\ITP4915M\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+F:\ITP4915M\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+F:\ITP4915M\Login\Login\obj\Debug\Login.csproj.CopyComplete
+F:\ITP4915M\Login\Login\obj\Debug\Login.exe
+F:\ITP4915M\Login\Login\obj\Debug\Login.pdb
+F:\ITP4915M\Login\Login\bin\Debug\EntityFramework.dll
+F:\ITP4915M\Login\Login\bin\Debug\EntityFramework.xml
+D:\ITP4915M\Login\Login\bin\Debug\EntityFramework.dll
+D:\ITP4915M\Login\Login\bin\Debug\EntityFramework.xml
+D:\ITP4915M\Login\Login\obj\Debug\Login.changePassword.resources
+F:\ITP4915M\Login\Login\obj\Debug\Login.changePassword.resources
+F:\ITP4915M\Login\Login\bin\Debug\Test.exe
+F:\ITP4915M\Login\Login\bin\Debug\Test.pdb
+F:\ITP4915M\Login\Login\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\SalesUI.exe.config
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Login.exe.config
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Login.exe
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Login.pdb
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\EntityFramework.dll
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\MySql.Data.dll
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\SalesUI.exe
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Test.exe
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Test.pdb
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Test.exe.config
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\SalesUI.pdb
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\SalesUI.exe.config
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\EntityFramework.xml
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.changePassword.resources
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.Form1.resources
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.admin.resources
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.reset.resources
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.search.resources
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.exe
+F:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.pdb
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Login.exe.config
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Login.exe
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Login.pdb
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\EntityFramework.dll
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\MySql.Data.dll
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\SalesUI.exe
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Test.exe
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Test.pdb
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\Test.exe.config
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\SalesUI.pdb
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\SalesUI.exe.config
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\bin\Debug\EntityFramework.xml
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.changePassword.resources
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.Form1.resources
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.admin.resources
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.reset.resources
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.search.resources
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.exe
+D:\ITP4915M\combine (2)\combine\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Login\Login\obj\Debug\Login.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\Login.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\Login.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\Login.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\EntityFramework.dll
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\MySql.Data.dll
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\SalesUI.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\Test.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\Test.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\Test.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\SalesUI.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\SalesUI.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\bin\Debug\EntityFramework.xml
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.changePassword.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.Form1.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.admin.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.reset.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.search.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Login\Login\obj\Debug\Login.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Login.exe.config
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Login.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Login.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\EntityFramework.dll
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\MySql.Data.dll
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\SalesUI.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Test.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Test.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Test.exe.config
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\SalesUI.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\SalesUI.exe.config
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\EntityFramework.xml
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.changePassword.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.Form1.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.admin.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.reset.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.search.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Login.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Login.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Login.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\EntityFramework.dll
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\MySql.Data.dll
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\SalesUI.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Test.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Test.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\Test.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\SalesUI.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\SalesUI.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\bin\Debug\EntityFramework.xml
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.changePassword.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.Form1.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.admin.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.reset.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.search.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\a1\Downloads\combine(8)\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.Up2Date
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\EntityFramework.dll
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\MySql.Data.dll
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\EntityFramework.xml
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.addUser.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.changePassword.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.Form1.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.admin.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.reset.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.search.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.Up2Date
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Login.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Login.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Login.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Test.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Test.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\Test.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.search.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\combine\combine\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\User\Downloads\combine\combine\Login\Login\obj\Debug\Login.SeeLog.resources
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Login.exe.config
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Login.exe
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Login.pdb
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Test.exe
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Test.pdb
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\Test.exe.config
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Downloads\combine(15)\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.search.resources
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.SeeLog.resources
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.exe
+C:\Users\a1\Downloads\combine(15)\Login\Login\obj\Debug\Login.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Login.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Login.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Login.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.search.resources
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.SeeLog.resources
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Login\Login\obj\Debug\Login.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Login.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Login.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Test.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Test.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.search.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.SeeLog.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Login\Login\obj\Debug\Login.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Login.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Login.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Test.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Test.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.addUser.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.changePassword.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.admin.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.reset.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.search.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.SeeLog.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Login\Login\obj\Debug\Login.pdb

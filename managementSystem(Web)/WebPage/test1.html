@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  
+  <table width="90%" border="1" id="myTable">
+    <tr>
+      <th colspan="14">Home page</th>
+      <th>ID:1020304050</th>
+    </tr>
+    <tr>
+      <td colspan="3"><a href="insert.html">Insert items’ information</a></td>
+      <td colspan="3"><a href="Edit1.html">Edit items’ information</a></td>
+      <td colspan="3"><a href="deleteSale.html">Delete item</a></td>
+      <td colspan="3"><a href="Records.html">Update order records</a></td>
+      <td colspan="3"><a href="report.html">Generate report</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Order ID</td>
+      <td>Sales Manager ID</td>
+      <td colspan="2">Sales Manager Contact Name</td>
+      <td colspan="2">Sales Manager Contact Number</td>
+      <td>Status</td>
+      <td>Quantity</td>
+      <td colspan="2">Item Price</td>
+      <td>Shipping Cost</td>
+      <td>Total Order Price</td>
+      <td>Order Date</td>
+      <td>Update</td>
+    </tr>
+    <tr>
+      <td><input type="checkbox" name="selectedRow"></td>
+      <td>1234567891</td>
+      <td class="idLabel"></td>
+      <td colspan="2" class="nameLabel"></td>
+      <td colspan="2" class="numberLabel"></td>
+      <td>Completed</td>
+      <td>14</td>
+      <td style="text-align:right;" colspan="2">$33.00 </td>
+      <td style="text-align:right;">$1.0</td>
+      <td style="text-align:right;">$34</td>
+      <td>15-04-2024</td>
+      <td><button onclick="fillSelectedRowLabel()">Update</button></td>
+    </tr>
+    <tr>
+      <td><input type="checkbox" name="selectedRow"></td>
+      <td>9876543210</td>
+      <td class="idLabel"></td>
+      <td colspan="2" class="nameLabel"></td>
+      <td colspan="2" class="numberLabel"></td>
+      <td>Pending</td>
+      <td>10</td>
+      <td style="text-align:right;" colspan="2">$25.00 </td>
+      <td style="text-align:right;">$0.5</td>
+      <td style="text-align:right;">$25.5</td>
+      <td>20-04-2024</td>
+      <td><button onclick="fillSelectedRowLabel()">Update</button></td>
+    </tr>
+  </table>
+
+  <script>
+    function fillSelectedRowLabel() {
+      var table = document.getElementById("myTable");
+      var selectedRows = table.querySelectorAll('input[type="checkbox"]:checked');
+
+      selectedRows.forEach(function(row) {
+        var selectedRow = row.parentNode.parentNode;
+        var idLabel = selectedRow.getElementsByClassName("idLabel")[0];
+        var nameLabel = selectedRow.getElementsByClassName("nameLabel")[0];
+        var numberLabel = selectedRow.getElementsByClassName("numberLabel")[0];
+
+        idLabel.textContent = "1020304050";
+          nameLabel.textContent = "WONG Hon Ping";
+          numberLabel.textContent = "+852 2436 8507";
+      });
+    }
+  </script>
+</body>
+</html>

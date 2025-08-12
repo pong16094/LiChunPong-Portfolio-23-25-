@@ -1,0 +1,610 @@
+F:\ITP4915M\Legend\Legend\bin\Debug\Legend.exe.config
+F:\ITP4915M\Legend\Legend\bin\Debug\Legend.exe
+F:\ITP4915M\Legend\Legend\bin\Debug\Legend.pdb
+F:\ITP4915M\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+F:\ITP4915M\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+F:\ITP4915M\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+F:\ITP4915M\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+F:\ITP4915M\Legend\Legend\obj\Debug\Legend.exe
+F:\ITP4915M\Legend\Legend\obj\Debug\Legend.pdb
+F:\ITP4915M\Legend\Legend\obj\Debug\Legend.Form2.resources
+F:\ITP4915M\Legend\Legend\bin\Debug\Login.exe
+F:\ITP4915M\Legend\Legend\bin\Debug\Test.exe
+F:\ITP4915M\Legend\Legend\bin\Debug\MySql.Data.dll
+F:\ITP4915M\Legend\Legend\bin\Debug\Login.pdb
+F:\ITP4915M\Legend\Legend\bin\Debug\Login.exe.config
+F:\ITP4915M\Legend\Legend\bin\Debug\Test.pdb
+F:\ITP4915M\Legend\Legend\bin\Debug\Test.exe.config
+F:\ITP4915M\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\User\Downloads\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\User\Downloads\combine\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Legend.exe.config
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Legend.exe
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Legend.pdb
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Login.exe
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Test.exe
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Login.pdb
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Login.exe.config
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Test.pdb
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Test.exe.config
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.exe
+F:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.pdb
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Legend.exe.config
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Legend.exe
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Legend.pdb
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Login.exe
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Test.exe
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Login.pdb
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Login.exe.config
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Test.pdb
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\Test.exe.config
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.exe
+D:\ITP4915M\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\a1\Desktop\New folder\combine (2)\combine\combine\Legend\Legend\obj\Debug\Legend.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\Legend.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\Legend.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\Legend.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\Login.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\Test.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\Login.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\Login.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\Test.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\Test.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\obj\Debug\Legend.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (2) - modify\combine\combine\Legend\Legend\obj\Debug\Legend.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Legend.exe.config
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Legend.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Legend.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Login.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Test.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Login.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Login.exe.config
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Test.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Test.exe.config
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.exe
+F:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Legend.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Legend.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Legend.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Login.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Test.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Login.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Login.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Test.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\Test.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.exe
+D:\ITP4915M\OneDrive_2024-06-04\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\a1\Desktop\New folder\combine (3)\combine\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\User\Downloads\combine(5)\combine(5)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\User\Downloads\combine (7)\combine (3)_5\combine\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\a1\Downloads\combine(8)\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\a1\Downloads\combine(9)\combine(8)\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.Up2Date
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\T\Desktop\Sem3\4915M_Sem3\Protype1\ITP4915M_project_prototype1_submit\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\a1\Desktop\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.exe
+G:\backup\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.Up2Date
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\User\Downloads\13_6_VS_Update\13_6_VS_Update\ITP4915M_project_prototype1_submit\combine(10)\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\User\Downloads\combine(11) (1)\combine(10)\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\a1\Desktop\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Login.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Test.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\tamho\Desktop\db\18_6_VS\18_6_VS\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\combine\combine\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\combine\combine\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Login.exe
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Test.exe
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\a1\Downloads\combine(15)\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Login.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Test.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\a1\Desktop\New folder\combine(15)\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Login.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Test.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\User\Downloads\Final_submit_version\combine(15)\Legend\Legend\obj\Debug\Legend.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Legend.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Legend.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Legend.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Dispatch_Processing.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Good_Recieved_Note.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Login.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\SalesUI.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Test.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Dispatch_Processing.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Dispatch_Processing.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Good_Recieved_Note.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Good_Recieved_Note.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Login.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Login.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Test.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\SalesUI.pdb
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\SalesUI.exe.config
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\obj\Debug\Legend.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\obj\Debug\Legend.Properties.Resources.resources
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\obj\Debug\Legend.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\obj\Debug\Legend.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\obj\Debug\Legend.csproj.CopyComplete
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\obj\Debug\Legend.exe
+C:\Users\User\Downloads\Final_submit_version(1)\Legend\Legend\obj\Debug\Legend.pdb

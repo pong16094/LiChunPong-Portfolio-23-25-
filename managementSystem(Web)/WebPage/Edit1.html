@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Edit</title>
+
+</head>
+
+<body>
+
+  <table class="fixed" width="90%" id="myTable" border="1">
+    <tr>
+      <th colspan="9">Home page</th>
+    </tr>
+    <tr>
+      <td colspan="2"><a href="insert.html">Insert items’ information</a></td>
+      <td colspan="2"><a href="Edit1.html">Edit items’ information</a></td>
+      <td colspan="2"><a href="deleteSale.html">Delete item</a></td>
+      <td colspan="2"><a href="Records.html">Update order records</a></td>
+      <td colspan="2"><a href="report.html">Generate report</a></td>
+    </tr>
+
+    <tr>
+      <td>sparePartNum</td>
+      <td colspan="2">sparePartName</td>
+      <td colspan="2">sparePartDescription</td>
+      <td>SIQ</td>
+      <td colspan="2">Price</td>
+      <td>Edit</td>
+
+    </tr>
+    <form action="Edit2.html" method="get">
+      <tr id="row1">
+
+        <td>A100001<img src="100001.jpg" width="70" height="60"></td>
+        <td colspan="2" >sheet metal 1</td>
+        <td colspan="2">Aluminium</td>
+        <td>1</td>
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row2">
+        <td>A100002<img src="100002.jpg" width="70" height="60"></td>
+        <td colspan="2">sheet metal 2</td>
+        <td colspan="2">Iron</td>
+        <td>2</td>
+        <td  colspan="2" style="text-align:right;">$10.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+        d>
+      </tr>
+      <tr id="row3">
+        <td>A100003<img src="100003.jpg" width="70" height="60"></td>
+        <td colspan="2">sheet metal 3</td>
+        <td colspan="2">sliver</td>
+        <td>2</td>
+        <td colspan="2" style="text-align:right;">$1.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row4">
+        <td>A100004<img src="100004.jpg" width="70" height="60"></td>
+        <td colspan="2">sheet metal 4</td>
+        <td colspan="2">Bronze</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$21.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row5">
+        <td>A100005<img src="100005.jpg" width="70" height="60"></td>
+        <td colspan="2">sheet metal 5</td>
+        <td colspan="2">Carbon</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$101.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+
+
+      <tr id="row6">
+        <td>B100001<img src="200001.jpg" width="70" height="60"></td>
+        <td colspan="2">Major Assemblis 1</td>
+        <td colspan="2">aluminium</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row7">
+        <td>B100002<img src="200002.jpg" width="70" height="60"></td>
+        <td colspan="2">Major Assemblis 2</td>
+        <td colspan="2">aluminium</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row8">
+        <td>B100003<img src="200003.jpg" width="70" height="60"></td>
+        <td colspan="2">Major Assemblis 3</td>
+        <td colspan="2">A pack of soda</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row9">
+        <td>B100004<img src="200004.jpg" width="70" height="60"></td>
+        <td colspan="2">Major Assemblis 4</td>
+        <td colspan="2">Pack of metal </td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row10">
+        <td>B100005<img src="200005.jpg" width="70" height="60"></td>
+        <td colspan="2">Major Assemblis 5</td>
+        <td colspan="2">horsu</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row11">
+        <td>C100001<img src="300001.jpg" width="70" height="60"></td>
+        <td colspan="2">Light Components 1</td>
+        <td colspan="2">bulbs</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row12">
+        <td>C100002<img src="300002.jpg" width="70" height="60"></td>
+        <td colspan="2">Light Components 2</td>
+        <td colspan="2">Taillights</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row13">
+        <td>C100003<img src="300003.jpg" width="70" height="60"></td>
+        <td colspan="2">Light Components 3</td>
+        <td colspan="2">Hazard lights</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row14">
+        <td>C100004<img src="300004.jpg" width="70" height="60"></td>
+        <td colspan="2">Light Components 4</td>
+        <td colspan="2">horsu</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row15">
+        <td>C100005<img src="300005.jpg" width="70" height="60"></td>
+        <td colspan="2">Light Components 5</td>
+        <td colspan="2">Fog lights</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row16">
+        <td>D100001<img src="400001.jpg" width="70" height="60"></td>
+        <td colspan="2">Accessories 1</td>
+        <td colspan="2">bulbs</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row17">
+        <td>D100002<img src="400002.jpg" width="70" height="60"></td>
+        <td colspan="2">Accessories 2</td>
+        <td colspan="2">nice</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row18">
+        <td>D100003<img src="400003.jpg" width="70" height="60"></td>
+        <td colspan="2">Accessories 3</td>
+        <td colspan="2">good</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row19">
+        <td>D100004<img src="400004.jpg" width="70" height="60"></td>
+        <td colspan="2">Accessories 4</td>
+        <td colspan="2">hello</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+      <tr id="row20">
+        <td>D100005<img src="400005.jpg" width="70" height="60"></td>
+        <td colspan="2">Accessories 5</td>
+        <td colspan="2">radom</td>
+        <td>2</td>
+
+        <td colspan="2" style="text-align:right;">$11.00</td>
+        <td><input type="submit" value="Edit" onclick="passRowData(event)"></td>
+      </tr>
+
+    </form>
+  <script>
+    function passRowData(event) {
+      var row = event.target.parentNode.parentNode; // Get the parent row of the clicked button
+      var cells = row.getElementsByTagName("td");
+      var rowData = {
+        column1: cells[0].textContent,
+        column2: cells[1].textContent,
+        column3: cells[2].textContent,
+        column4: cells[3].textContent,
+        column5: parseFloat(cells[4].textContent.replace('$', ''))
+      };
+
+      localStorage.setItem('rowData', JSON.stringify(rowData));
+      window.location.href = 'Edit2.html';
+    }
+  </script>
+  </table>
+
+</body></html>

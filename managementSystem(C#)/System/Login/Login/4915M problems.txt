@@ -1,0 +1,5 @@
+Incoming orders-centralized order request with a standard form.
+Order Processing-the contents of the orders can type by the manager than upload to sever
+can online order
+Auto gen the number,sheet(DID) 
+Real time Stock System (Auto order)

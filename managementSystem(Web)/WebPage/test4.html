@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Target Page</title>
+</head>
+<body>
+  <h1>Target Page</h1>
+  <form>
+    <label for="column1">Column 1:</label>
+    <input type="text" id="column1" name="column1" readonly>
+
+    <label for="column2">Column 2:</label>
+    <input type="text" id="column2" name="column2" readonly>
+
+    <label for="column3">Column 3:</label>
+    <input type="text" id="column3" name="column3" readonly>
+  </form>
+
+  <script>
+    var rowData = JSON.parse(localStorage.getItem('rowData'));
+
+    if (rowData) {
+      document.getElementById('column1').value = rowData.column1;
+      document.getElementById('column2').value = rowData.column2;
+      document.getElementById('column3').value = rowData.column3;
+
+      localStorage.removeItem('rowData'); // Optional: remove the stored data
+    }
+  </script>
+</body>
+</html>
