@@ -1,0 +1,15 @@
+servlet\bakeryUpdate.class
+servlet\handleRegister.class
+db\UserDb.class
+com\mycompany\asm\JakartaRestConfiguration.class
+servlet\handleFruit.class
+bean\fruit.class
+servlet\handleReserve.class
+servlet\handleUser.class
+servlet\handleWarehouse.class
+bean\reservation.class
+servlet\handleLogin.class
+bean\user.class
+com\mycompany\asm\resources\JakartaEE8Resource.class
+bean\location.class
+servlet\handleReport.class

@@ -1,0 +1,204 @@
+11. Show undo/redo list 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Russo Brothers. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-l 
+Undo List 
+Change player’s name, P001, Russo Brothers 
+Delete hero, H002 
+Call hero skill, H001, peter pang, Warrior, Hp: 500, Damage: 250, Defence 
+Point: 400 
+Add hero, H004, tony stark, Warrior 
+Add hero, H003, scarlet witch, Warlock 
+Create player, P002, Stan Lee 
+Add hero, H002, john wick, Warlock 
+Add hero, H001, peter pang, Warrior 
+P a ge | 9 
+Create player, P001, Thomas Yiu -- End of undo list -- 
+Redo List -- End of redo list – 
+12. UNDO actions in UNDO list 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Russo Brothers. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-u  
+Command (Change player’s name, P001, Russo Brothers) is undone. 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-u  
+Command (Delete hero, H002) is undone. 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-u 
+Command (Call hero skill, H001, peter pang, Warrior, Hp: 500, Damage: 250, 
+Defence Point: 400) is undone. 
+P a ge | 10 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-s 
+Player Thomas Yiu (P001) 
+Heroes: 
+H001, peter pang, Warrior, Hp: 500, Damage: 0, Defence Point: 500 
+H002, john wick, Warlock, Hp: 100, Damage: 200, Mp: 500 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-u 
+Command (Add hero, H004, tony stark, Warrior) is undone. 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-u 
+Command (Add hero, H003, scarlet witch, Warlock) is undone. 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-g 
+Please input player ID:- P002 
+Changed current player to P002.  
+P a ge | 11 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P002 Stan Lee. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-s 
+Player Stan Lee (P002) 
+Heroes: 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P002 Stan Lee. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-u 
+Command (Create player, P002, Stan Lee) is undone. 
+Current player is changed to P001. 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-g 
+Please input player ID:- P002 
+Player P002 is not found!! 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-l 
+Undo List 
+Add hero, H002, john wick, Warlock 
+Add hero, H001, peter pang, Warrior 
+Create player, P001, Thomas Yiu -- End of undo list -- 
+P a ge | 12 
+Redo List 
+Create player, P002, Stan Lee 
+Add hero, H003, scarlet witch, Warlock 
+Add hero, H004, tony stark, Warrior 
+Call hero skill, H001, peter pang, Warrior, Hp: 1000, Damage: 500, Defence 
+Point: 400 
+Delete hero, H002 
+Change player’s name, P001, Russo Brothers -- End of redo list – 
+13. REDO actions in REDO list 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-r 
+Command (Create player, P002, Stan Lee) is redone.  
+The current player is changed to P002. 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P002 Stan Lee. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-r 
+Command (Add hero, H003, scarlet witch, Warlock) is redone.  
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P002 Stan Lee. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-r 
+Command (Add hero, H004, tony stark, Warrior) is redone. 
+Fantastic World (FW) 
+P a ge | 13 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P002 Stan Lee. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-s 
+Player Stan Lee (P002) 
+Heroes: 
+H003, scarlet witch, Warlock, Hp: 100, Damage: 200, Mp: 500 
+H004, tony stark, Warrior, Hp: 500, Damage: 0, Defence Point: 500 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P002 Stan Lee. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-r 
+Command (Call hero skill, H001, peter pang, Warrior, Hp: 500, Damage: 250, 
+Defence Point: 400) is redone.  
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Thomas Yiu. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-g 
+Please input player ID:- P001 
+Changed current player to P001. 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P001 Russo Brothers. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-s 
+Player Russo Brothers (P001) 
+Heroes: 
+H001, peter pang, Warrior, Hp: 500, Damage: 250, Defence Point: 400 
+H002, john wick, Warlock, Hp: 100, Damage: 200, Mp: 500 
+P a ge | 14 
+Fantastic World (FW) 
+c = create player, g = set current player, a = add hero, m = call hero skill, d 
+= delete hero, s = show player, p = display all players, t = change player’s 
+name, u = undo, r = redo, l = list undo/redo, x = exit system 
+The current player is P002 Stan Lee. 
+Please enter command [ c | g | a | m | d | s | p | t | u | r | l | x ] :-l 
+Undo List 
+Call hero skill, H001, peter pang, Warrior, Hp: 1000, Damage: 500, Defence 
+Point: 400 
+Add hero, H004, tony stark, Warrior  
+Add hero, H003, scarlet witch, Warlock  
+Create player, P002, Stan Lee 
+Add hero, H002, john wick, Warlock 
+Add hero, H001, peter pang, Warrior 
+Create player, P001, Thomas Yiu -- End of undo list -- 
+Redo List 
+Delete hero, H002 
+Change player’s name, P001, Russo Brothers -- End of redo l

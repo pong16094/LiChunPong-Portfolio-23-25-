@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            let listItemHTML = document.querySelector('.listCart');
+            let carts = [];
+
+            $('#user').click(function () {
+                const userId = sessionStorage.getItem('userId');
+                console.log('User ID:', userId);
+                if (!userId) {
+                    window.location.href = 'login.html'; // Redirect if userId is not found
+                }
+            });
+            function fetchProducts() {
+                $.ajax({
+                    url: '/products',
+                    method: 'GET',
+                    success: function (products) {
+                        const productsHTML = products.map(product => `
+                            <div class="item"id="${product.product_id}">
+                            <img src="${product.product_image}">
+                                <h2>${product.product_name}</h2>
+                                <div class="price">$${product.product_price}</div>
+                                <button class="addCart">
+                                    Add Cart
+                                </button>
+                            </div>
+                        `).join('');
+                        $('.listItem').html(productsHTML);
+
+                    },
+                    error: function (err) {
+                        console.error('Error fetching products:', err);
+                    }
+                });
+            }
+            fetchProducts();
+
+            //*******load product**********
+
+            $(".listItem").on("click", ".addCart", function () {
+                var id = $(this).parent().attr("id");
+                addCart(id);
+            });
+
+            $(".nav-container ul li").mouseover(function () {
+                $(".nav-container").css("background-color", "#fff");
+            }).mouseout(function () {
+                $(".nav-container").css("background-color", "transparent");
+            });
+
+            $("#Cart").click(function () {
+                if ($("body").hasClass("showCart")) {
+                    $("body").removeClass("showCart");
+                } else {
+                    $("body").addClass("showCart");
+                }
+            });
+
+            $(".close").click(function () {
+                $("body").removeClass("showCart");
+            });
+
+            const addCart = (product_id) => {
+
+                const productElement = document.getElementById(product_id);
+                const productName = productElement.querySelector('h2').innerText;
+                const productPrice = parseFloat(productElement.querySelector('.price').innerText.replace('$', ''));
+                const productImage = productElement.querySelector('img').src;
+
+                let inCart = carts.findIndex((value) => value.product_id == product_id);
+
+                if (inCart < 0) {
+                    carts.push({
+                        product_id: product_id,
+                        name: productName,
+                        price: productPrice,
+                        image: productImage,
+                        quantity: 1
+                    });
+                } else {
+                    carts[inCart].quantity += 1;
+                }
+
+                addCartToHTML(); // Refresh the cart UI
+            };
+
+            const addCartToHTML = () => {
+                listItemHTML.innerHTML = ''; // Clear the existing cart HTML
+
+                if (carts.length > 0) {
+                    carts.forEach(cart => {
+                        let newCart = document.createElement('div');
+                        newCart.classList.add('cartItem');
+                        newCart.innerHTML = `
+                <div class="image"><img src="${cart.image}" alt="${cart.name}"></div>
+                <div class="itemName">${cart.name}</div>
+                <div class="totalPrice">$${(cart.price * cart.quantity)}</div>
+                <div class="quantity">
+                    <span class="minus" data-id="${cart.product_id}">-</span>
+                    <span><input type="text" value="${cart.quantity}" readonly></span>
+                    <span class="plus" data-id="${cart.product_id}">+</span>
+                </div>
+            `;
+
+                        listItemHTML.appendChild(newCart);
+                    });
+
+                    // Add click events for incrementing and decrementing item quantity
+                    document.querySelectorAll('.minus').forEach(btn => {
+                        btn.addEventListener('click', function () {
+                            updateCartQuantity(this.dataset.id, -1);
+                        });
+                    });
+
+                    document.querySelectorAll('.plus').forEach(btn => {
+                        btn.addEventListener('click', function () {
+                            updateCartQuantity(this.dataset.id, 1);
+                        });
+                    });
+                } else {
+                    listItemHTML.innerHTML = '<p>Your cart is empty!</p>';
+                }
+            };
+
+            const updateCartQuantity = (product_id, change) => {
+                const inCart = carts.findIndex((value) => value.product_id == product_id);
+
+                if (inCart >= 0) {
+                    carts[inCart].quantity += change;
+
+                    // Remove the item if the quantity is zero or less
+                    if (carts[inCart].quantity <= 0) {
+                        carts.splice(inCart, 1);
+                    }
+
+                    addCartToHTML(); // Refresh the cart UI
+                }
+            };
+
+
+            $('.checkOut').click(function () {
+                const userId = sessionStorage.getItem('userId');
+                console.log('User ID:', userId);
+                if (!userId) {
+                    alert("Plase login first");
+                    window.location.href = 'login.html'; // Redirect if userId is not found
+                    return;
+                }
+                $.ajax({
+                    url: "/add-to-cart",
+                    method: "POST",
+                    contentType: "application/json",
+                    data: JSON.stringify(carts),
+                    success: function (response) {
+                        window.location.href = '/checkout'
+                        console.log("success"); // For debugging
+                    },
+                    error: function (err) {
+                        console.error("Error to the check out page:", err);
+                    }
+                });
+            });
+        });
+        /*
+        <div class="item">
+                        <img src="1897768-00-E_CT-Crossbars-Bed-Angle.avif">
+                        <h2>Cybertruck Crossbars</h2>
+                        <div class="price">$800</div>
+                        <button class="addCart">
+                            Add Cart
+                        </button>
+                    </div>*/
+    </script>
+    <style>
+        * {
+            font-family: "Poppins", sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            overflow-x: hidden;
+            scroll-snap-type: y mandatory;
+        }
+
+        .nav-container {
+            position: fixed;
+            top: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            padding-right: 30px;
+            padding-left: 20px;
+            height: 80px;
+            color: black;
+            z-index: 1000;
+        }
+
+        .nav-container ul {
+            display: flex;
+            list-style: none;
+            grid-gap: 20px;
+            font-size: 15px;
+        }
+
+        .nav-container ul li {
+            cursor: pointer;
+            transition: 0.5s;
+            padding: 3px 10px;
+            border-radius: 5px;
+        }
+
+        .nav-container ul li:hover,
+        .nav-container .icons i:hover {
+            background-color: gray;
+        }
+
+        .nav-container ul li #content {
+            display: none;
+            position: absolute;
+            background-color: #fff;
+            width: 100%;
+            height: 250px;
+            top: 67%;
+            left: 0;
+        }
+
+        .nav-container ul li #content .product a {
+            color: #333;
+
+        }
+
+        .nav-container ul li #content .product a:hover {
+            color: #5ff900;
+        }
+
+        .nav-container ul li #content .product {
+            display: grid;
+            padding-left: 8%;
+            text-align: center;
+        }
+
+        .nav-container ul li #content img {
+            width: 150px;
+        }
+
+        .logo {
+            width: 120px;
+            height: 90;
+            cursor: pointer;
+        }
+
+        .nav-container .icons {
+            display: flex;
+            font-size: 25px;
+            grid-gap: 10px;
+            cursor: pointer;
+        }
+
+        .nav-container i {
+            border-radius: 50%;
+            padding: 3px;
+            transition: 0.5s;
+        }
+
+        .nav-container ul li:hover #content {
+            display: flex;
+            align-items: center;
+            z-index: 999;
+        }
+
+        .page {
+            position: absolute;
+            top: 15%;
+            padding-left: 5%;
+            transition: transform .5s;
+        }
+
+        .page .listItem .item img {
+            width: 200px;
+        }
+
+        .page .listItem {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+        }
+
+        .page .listItem .item {
+            padding: 20px;
+        }
+
+        .page .listItem .item h2 {
+            font-weight: 500;
+            font-size: large;
+        }
+
+        .page .listItem .item .price {
+            font-size: small;
+        }
+
+        .page .listItem .item button {
+            background-color: #353432;
+            color: #eee;
+            padding: 5px 10px;
+            border-radius: 20px;
+            margin-top: 10px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .page .listItem .item button:hover {
+            background-color: #5e5959;
+            color: #8c61f0;
+
+        }
+
+        .cart {
+            width: 400px;
+            background-color: #353432;
+            color: #eee;
+            position: fixed;
+            display: grid;
+            inset: 0 0 0 auto;
+            grid-template-rows: 70px 1fr 70px;
+            transition: .5s;
+            transform: translateX(100%);
+        }
+
+        body.showCart .page .cart {
+            transform: translateX(0%);
+        }
+
+
+        .cart h1 {
+            padding: 20px;
+            margin: 0;
+            font-weight: 300;
+        }
+
+        .cart .btn {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        .cart .btn button {
+            background-color: #E8BC0E;
+            border: none;
+            font-weight: 500;
+            cursor: pointer;
+        }
+
+        .cart .btn .close {
+            background-color: #eee;
+        }
+
+        .cart .listCart .cartItem img {
+            padding-left: 7px;
+            width: 100%;
+        }
+
+        .cart .listCart .cartItem {
+            display: grid;
+            grid-template-columns: 70px 150px 50px 1fr;
+            gap: 10px;
+            text-align: center;
+            align-items: center;
+        }
+
+
+        .cartItem .quantity {
+            padding: 5px;
+        }
+
+        .cartItem .quantity span {
+            display: inline-block;
+            width: 25px;
+            height: 25px;
+            background-color: #eee;
+            color: #555;
+            border-radius: 50%;
+            cursor: pointer;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        .cartItem .quantity span input {
+            width: 30px;
+            height: 30px;
+            text-align: center;
+            border-radius: 15px;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+
+        }
+
+        .cartItem .quantity span:nth-child(2) {
+            background-color: transparent;
+            color: #eee;
+        }
+
+        .listCart .cartItem:nth-child(even) {
+            background-color: #eee1;
+        }
+
+        .listCart {
+            overflow: auto;
+        }
+
+        .listCart::-webkit-scrollbar {
+            width: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="nav-container">
+        <a href="Home.html">
+            <img class="logo" src="Logo.png" alt="Logo">
+        </a>
+        <ul>
+            <li>Vehicles
+                <div id="content">
+                    <div class="product">
+                        <a href="shop1.html"><img src="Mega-Menu-Vehicles-Model-S.avif"></a>
+                        <label>Model S</label>
+                        <a href="shop1.html" class="order">Order</a>
+                    </div>
+                    <div class="product">
+                        <a href="shop1.html"><img src="Mega-Menu-Vehicles-Model-3-Performance-LHD.avif"></a>
+                        <label>Model 3</label>
+                        <a href="shop1.html" class="order">Order</a>
+                    </div>
+                    <div class="product">
+                        <a href="shop1.html"><img src="Mega-Menu-Vehicles-Model-X.avif"></a>
+                        <label>Model X</label>
+                        <a href="shop1.html" class="order">Order</a>
+                    </div>
+
+
+                    <div class="product">
+                        <a href="shop1.html"><img src="Mega-Menu-Vehicles-Model-Y.avif"></a>
+                        <label>Model Y</label>
+                        <a href="shop1.html" class="order">Order</a>
+                    </div>
+                    <div class="product">
+                        <a href="shop1.html"><img src="Mega-Menu-Vehicles-Cybertruck-1x.avif"></a>
+                        <label>Cybertruck</label>
+                        <a href="shop1.html" class="order">Order</a>
+                    </div>
+
+                </div>
+            </li>
+        </ul>
+        <div class="icons"><i style="font-size:24px" class="fa" id="Cart">&#xf07a;</i><i class="fa"
+                id="user">&#xf2be;</i></div>
+
+
+
+    </nav>
+    <div class="page">
+        <div class="listItem">
+
+
+
+        </div>
+        <div class="cart">
+            <h1>Shopping Cart</h1>
+            <div class="listCart">
+                <div class="cartItem">
+                </div>
+            </div>
+
+            <div class="btn">
+                <button class="close">Close</button>
+                <button class="checkOut">Check out</button>
+            </div>
+        </div>
+    </div>
+    <script>
+
+        $(document).ready(function () {
+
+
+        });
+
+    </script>
+</body>
+
+</html>

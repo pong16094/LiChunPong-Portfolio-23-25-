@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Request Password Reset</title>
+    <style>
+          body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 70vh;
+      margin: 0;
+    }
+
+    .logo {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+    }
+.emailForm {
+      position: relative;
+      width: 300px;
+      height: 400px;
+      /* Fixed height to contain both forms */
+      overflow: hidden;
+      background-color: #fff;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }        
+      
+        input[type="email"] {
+            padding: 10px;
+            margin: 10px 0;
+            width: 100%;
+            max-width: 300px;
+        }
+        button {
+            padding: 10px 15px;
+            cursor: pointer;
+          border-radius: 5px;
+          background-color: yellow;
+          color: crimson;
+        }
+    </style>
+</head>
+<body>
+<div class="logo">
+    <img src="Logo.png" width="160" height="120" alt="Company Logo">
+  </div>   
+   <div>
+     
+     <h2>Request Password Reset</h2>
+     <form action="/request-reset" method="POST">
+        <input type="email" name="email" placeholder="Enter your email" required>
+        <button type="submit">Send Reset Link</button>
+    </form>
+   </div>
+</body>
+
+</html>

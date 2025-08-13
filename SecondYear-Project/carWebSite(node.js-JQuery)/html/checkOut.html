@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <title>Document</title>
+    <script>
+        $(document).ready(function () {
+            // Fetch cart items from the server
+            let totalPrice = 0;
+            $.ajax({
+                url: "/cart-data", // Endpoint to get cart data
+                method: "GET",
+                success: function (cartItems) {
+                    const cartContainer = $("#cart");
+                    cartItems.forEach(item => {
+                        cartContainer.append(`
+                        <div class="cart-item">
+                        <img src="${item.image}" alt="${item.name}" class="item-image">
+                            <div class="item-details">
+                                <h3>${item.name}</h3>
+                                <p>Quantity: ${item.quantity}</p>
+                                <button class="remove-item">Remove</button>
+                            </div>
+                            <div class="item-price">$${item.price}</div>
+                            </div>
+                        `);
+                        totalPrice += item.quantity * item.price;
+                    });
+                    console.log(totalPrice);
+                    document.querySelector("#total").innerText = ("Subtotal: $" + totalPrice);
+
+                },
+                error: function (err) {
+                    console.error("Error fetching cart data:", err);
+                }
+            });
+
+            $('.checkout-button').click(function () {
+                const url=`/pay?totalPrice=${totalPrice}`
+                window.location.href = url;
+                console.log("success"); // For debugging
+
+            });
+            /* $.ajax({
+                 url: "http://localhost:3000/cart",
+                 method: "GET",
+                 success: function (cartItems) {
+                     const cartContainer = $(".cart-items");
+                     cartContainer.empty(); // Clear existing items
+     
+                     let subtotal = 0;
+     
+                     // Loop through each item and append it to the cart
+                     cartItems.forEach(item => {
+                         subtotal += item.price * item.quantity;
+                         cartContainer.append(`
+                             <div class="cart-item">
+                                 <img src="path/to/image/${item.id}.jpg" alt="${item.name}" class="item-image">
+                                 <div class="item-details">
+                                     <h3>${item.name}</h3>
+                                     <p>Price: $${item.price.toFixed(2)}</p>
+                                     <p>Quantity: ${item.quantity}</p>
+                                 </div>
+                                 <div class="item-price">$${(item.price * item.quantity).toFixed(2)}</div>
+                             </div>
+                         `);
+                     });
+     
+                     // Update subtotal
+                     $(".order-summary h3 span").text(`$${subtotal.toFixed(2)}`);
+                 },
+                 error: function (err) {
+                     console.error("Error fetching cart items:", err);
+                 }
+             });
+             
+             <div class="cart-item">
+                <img src="image-url.jpg" alt="Product Image" class="item-image">
+                <div class="item-details">
+                    <h3>Tesla Sipping Glasses</h3>
+                    <p>Quantity:
+                        <select class="item-quantity">
+                            <option value="1">1</option>
+                            <option value="2" selected>2</option>
+                            <option value="3">3</option>
+                        </select>
+                    </p>
+                    <button class="remove-item">Remove</button>
+                </div>
+                <div class="item-price">$50.00</div>
+            </div>
+             
+             
+             */
+        });
+    </script>
+    <style>
+        * {
+            font-family: "Poppins", sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            overflow-x: hidden;
+            scroll-snap-type: y mandatory;
+        }
+
+        .nav-container {
+            position: fixed;
+            top: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            padding-right: 30px;
+            padding-left: 20px;
+            height: 80px;
+            color: black;
+            z-index: 1000;
+        }
+
+        .nav-container ul {
+            display: flex;
+            list-style: none;
+            grid-gap: 20px;
+            font-size: 15px;
+        }
+
+        .nav-container ul li {
+            cursor: pointer;
+            transition: 0.5s;
+            padding: 3px 10px;
+            border-radius: 5px;
+        }
+
+        .nav-container ul li:hover,
+        .nav-container .icons i:hover {
+            background-color: gray;
+        }
+
+        .nav-container ul li #content {
+            display: none;
+            position: absolute;
+            background-color: #fff;
+            width: 100%;
+            height: 250px;
+            top: 67%;
+            left: 0;
+        }
+
+        .nav-container ul li #content .product a {
+            color: #333;
+
+        }
+
+        .nav-container ul li #content .product a:hover {
+            color: #5ff900;
+        }
+
+        .nav-container ul li #content .product {
+            display: grid;
+            padding-left: 8%;
+            text-align: center;
+        }
+
+        .nav-container ul li #content img {
+            width: 150px;
+        }
+
+        .logo {
+            width: 120px;
+            height: 90;
+            cursor: pointer;
+        }
+
+        .nav-container .icons {
+            display: flex;
+            font-size: 25px;
+            grid-gap: 10px;
+            cursor: pointer;
+        }
+
+        .nav-container i {
+            border-radius: 50%;
+            padding: 3px;
+            transition: 0.5s;
+        }
+
+        .nav-container ul li:hover #content {
+            display: flex;
+            align-items: center;
+            z-index: 999;
+        }
+
+        .cart-container {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+            margin: 10% 5%;
+            flex-wrap: wrap;
+        }
+
+        /* Cart Items Section */
+        .cart-items {
+            flex: 2;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .cart-items h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+        }
+
+        /* Cart Item */
+        .cart-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 15px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .item-image {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            margin-right: 15px;
+            border-radius: 5px;
+        }
+
+        .item-details {
+            flex: 1;
+        }
+
+        .item-details h3 {
+            font-size: 18px;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+
+        .item-details p {
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+
+        .item-details select {
+            padding: 5px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .item-details button {
+            background-color: #ff4d4f;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            font-size: 14px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .item-details button:hover {
+            background-color: #d9363e;
+        }
+
+        .item-price {
+            font-size: 16px;
+            font-weight: 600;
+            text-align: right;
+            margin-left: 20px;
+        }
+
+        /* Order Summary Section */
+        .order-summary {
+            flex: 1;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .order-summary h2 {
+            font-size: 20px;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+        }
+
+        .order-summary p {
+            font-size: 14px;
+            margin: 10px 0;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .order-summary h3 {
+            font-size: 18px;
+            margin-top: 20px;
+            font-weight: 700;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .checkout-button {
+            display: block;
+            width: 100%;
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: #fff;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+            margin-top: 20px;
+            transition: background-color 0.3s ease;
+        }
+
+        .checkout-button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .cart-container {
+                flex-direction: column;
+                padding: 10px;
+            }
+
+            .order-summary {
+                margin-top: 20px;
+            }
+
+            .cart-item {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .item-price {
+                text-align: left;
+                margin-left: 0;
+                margin-top: 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="nav-container">
+        <a href="Home.html">
+            <img class="logo" src="Logo.png" alt="Logo">
+        </a>
+        <ul>
+            <li>Vehicles
+                <div id="content">
+                    <div class="product">
+                        <a href="car1.html"><img src="Mega-Menu-Vehicles-Model-S.avif"></a>
+                        <label>Model S</label>
+                        <a href="order.html" class="order">Order</a>
+                    </div>
+                    <div class="product">
+                        <a href="car1.html"><img src="Mega-Menu-Vehicles-Model-3-Performance-LHD.avif"></a>
+                        <label>Model 3</label>
+                        <a href="order.html" class="order">Order</a>
+                    </div>
+                    <div class="product">
+                        <a href="car1.html"><img src="Mega-Menu-Vehicles-Model-X.avif"></a>
+                        <label>Model X</label>
+                        <a href="order.html" class="order">Order</a>
+                    </div>
+
+
+                    <div class="product">
+                        <a href="car1.html"><img src="Mega-Menu-Vehicles-Model-Y.avif"></a>
+                        <label>Model Y</label>
+                        <a href="order.html" class="order">Order</a>
+                    </div>
+                    <div class="product">
+                        <a href="car1.html"><img src="Mega-Menu-Vehicles-Cybertruck-1x.avif"></a>
+                        <label>Cybertruck</label>
+                        <a href="order.html" class="order">Order</a>
+                    </div>
+
+                </div>
+            </li>
+        </ul>
+        <div class="icons"><i style="font-size:24px" class="fa" id="Cart">&#xf07a;</i><i class="fa">&#xf2be;</i></div>
+    </nav>
+
+    <div class="cart-container">
+        <div class="cart-items" id="cart">
+            <h2>Cart</h2>
+
+        </div>
+
+        <div class="order-summary">
+            <h2>Order Summary</h2>
+            <p><strong>Shipping:</strong> Free</p>
+            <h3 id="total"></h3>
+            <button class="checkout-button">Checkout</button>
+        </div>
+    </div>
+
+</body>
+
+</html>

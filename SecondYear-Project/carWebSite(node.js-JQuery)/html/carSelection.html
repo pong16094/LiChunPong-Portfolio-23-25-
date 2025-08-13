@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Customization</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+    // Get elements
+    const modelBtns = document.querySelectorAll(".model-btn");
+    const colorOptions = document.querySelectorAll(".color-option");
+    const wheelBtns = document.querySelectorAll(".wheel-btn");
+    const leatherSeats = document.getElementById("leatherSeats");
+    const sunroof = document.getElementById("sunroof");
+    const premiumSound = document.getElementById("premiumSound");
+    const autopilot = document.getElementById("autopilot");
+    const carImage = document.getElementById("carImage");
+    const totalPriceElement = document.getElementById("totalPrice");
+
+    let selectedModel = "modelA";
+    let selectedColor = "red";
+    let selectedWheelSize = "16";
+    let interiorFeatures = [];
+    let additionalFeatures = [];
+
+    // Model Selection
+    modelBtns.forEach(btn => {
+        btn.addEventListener("click", () => {
+            selectedModel = btn.dataset.model;
+            updatePreview();
+        });
+    });
+
+    // Color Selection
+    colorOptions.forEach(option => {
+        option.addEventListener("click", () => {
+            colorOptions.forEach(opt => opt.classList.remove("selected"));
+            option.classList.add("selected");
+            selectedColor = option.dataset.color;
+            updatePreview();
+        });
+    });
+
+    // Wheel Size Selection
+    wheelBtns.forEach(btn => {
+        btn.addEventListener("click", () => {
+            selectedWheelSize = btn.dataset.size;
+            updatePreview();
+        });
+    });
+
+    // Interior Features Selection
+    leatherSeats.addEventListener("change", updatePreview);
+    sunroof.addEventListener("change", updatePreview);
+
+    // Additional Features Selection
+    premiumSound.addEventListener("change", updatePreview);
+    autopilot.addEventListener("change", updatePreview);
+
+    // Update the preview and summary
+    function updatePreview() {
+        // Update car image based on selections
+        let imageSrc = `images/${selectedModel}_${selectedColor}_${selectedWheelSize}inch.jpg`;
+        carImage.src = imageSrc;
+
+        // Update price (for simplicity, just using some base prices for each option)
+        let basePrice = 50000;
+        if (selectedModel === "modelB") basePrice += 10000;
+        if (selectedModel === "modelC") basePrice += 15000;
+
+        if (selectedWheelSize === "18") basePrice += 2000;
+        if (selectedWheelSize === "20") basePrice += 3000;
+
+        if (leatherSeats.checked) basePrice += 2000;
+        if (sunroof.checked) basePrice += 1500;
+        if (premiumSound.checked) basePrice += 1000;
+        if (autopilot.checked) basePrice += 5000;
+
+        totalPriceElement.textContent = `$${basePrice.toLocaleString()}`;
+    }
+
+    // Initial Preview and Price Update
+    updatePreview();
+});
+
+    </script>
+    <style>
+        /* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+/* Model Selection */
+.model-options {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.model-btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.model-btn:hover {
+    background-color: #45a049;
+}
+
+/* Color Selection */
+.color-options {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.color-option {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid #ccc;
+}
+
+.color-option.selected {
+    border: 2px solid #333;
+}
+
+/* Wheel Selection */
+.wheel-options {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.wheel-btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.wheel-btn:hover {
+    background-color: #45a049;
+}
+
+/* Interior Options */
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+/* Car Preview */
+#carPreview {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#carImage {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+/* Price Section */
+#totalPrice {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Submit Button */
+#submitBtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    display: block;
+    margin: 30px auto;
+}
+
+#submitBtn:hover {
+    background-color: #45a049;
+}
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Design Your Car</h1>
+
+        <!-- Model Selection Section -->
+        <div class="section">
+            <h2>Select Your Model</h2>
+            <div class="model-options">
+                <button class="model-btn" data-model="modelA">Model A</button>
+                <button class="model-btn" data-model="modelB">Model B</button>
+                <button class="model-btn" data-model="modelC">Model C</button>
+            </div>
+        </div>
+
+        <!-- Exterior Color Selection -->
+        <div class="section">
+            <h2>Select Exterior Color</h2>
+            <div class="color-options">
+                <div class="color-option" style="background-color: red;" data-color="red"></div>
+                <div class="color-option" style="background-color: blue;" data-color="blue"></div>
+                <div class="color-option" style="background-color: black;" data-color="black"></div>
+            </div>
+        </div>
+
+        <!-- Wheels Selection -->
+        <div class="section">
+            <h2>Select Wheel Size</h2>
+            <div class="wheel-options">
+                <button class="wheel-btn" data-size="16">16 inches</button>
+                <button class="wheel-btn" data-size="18">18 inches</button>
+                <button class="wheel-btn" data-size="20">20 inches</button>
+            </div>
+        </div>
+
+        <!-- Interior Options -->
+        <div class="section">
+            <h2>Select Interior Options</h2>
+            <label><input type="checkbox" id="leatherSeats"> Leather Seats</label>
+            <label><input type="checkbox" id="sunroof"> Sunroof</label>
+        </div>
+
+        <!-- Additional Features -->
+        <div class="section">
+            <h2>Select Additional Features</h2>
+            <label><input type="checkbox" id="premiumSound"> Premium Sound</label>
+            <label><input type="checkbox" id="autopilot"> Autopilot</label>
+        </div>
+
+        <!-- Price Section -->
+        <div class="section">
+            <h2>Total Price</h2>
+            <p id="totalPrice">$0.00</p>
+        </div>
+
+        <!-- Preview Section -->
+        <div class="section">
+            <h2>Car Preview</h2>
+            <div id="carPreview">
+                <img id="carImage" src="images/default.jpg" alt="Car Preview">
+            </div>
+        </div>
+
+        <!-- Submit Button -->
+        <button id="submitBtn">Submit Design</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

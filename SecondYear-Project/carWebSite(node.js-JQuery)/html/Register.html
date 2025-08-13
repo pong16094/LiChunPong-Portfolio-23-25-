@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Create Account</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .logo {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+    }
+
+    #phoneNumberError,
+    #firstNameError,
+    #lastNameError,
+    #passwordError {
+      color: red;
+      font-size: 0.9em;
+    }
+
+    .form-container {
+      position: relative;
+      width: 300px;
+      height: 400px;
+      /* Fixed height to contain both forms */
+      overflow: hidden;
+      background-color: #fff;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .form {
+      position: absolute;
+      width: 90%;
+      height: 100%;
+      /* Full height for the forms */
+      transition: left 0.5s ease;
+      margin: 5px;
+    }
+
+    .form.hidden {
+      left: 110%;
+      /* Move the form out of view */
+      padding: 10px;
+    }
+
+    .form h2 {
+      margin: 0 0 15px;
+    }
+
+    .form-group {
+      margin-bottom: 15px;
+    }
+
+    label {
+      display: block;
+      margin: 0 0 5px;
+    }
+
+    #nextButton {
+      position: absolute;
+      bottom: 50px;
+      right: 0px;
+      margin: 10px;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="password"] {
+      width: 90%;
+      padding: 10px;
+      margin: 5px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    .button-container {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 10px;
+    }
+
+    button {
+      padding: 10px;
+      background-color: #007bff;
+      border: 1;
+      border-radius: 5px;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+      border-color: white;
+    }
+
+    #backButton {
+      flex: 0 10px 100px;
+      /* Fixed width for the Back button */
+      font-size: 14px;
+      /* Smaller font size */
+    }
+
+    #submitButton {
+      flex: 1;
+      /* Allow Create Account button to take the remaining space */
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    .staff-id-role-group {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+
+    .staff-id-role-group>* {
+      flex: 1;
+    }
+
+    .staff-id-role-group label {
+      margin-right: 10px;
+    }
+
+    .staff-id-group .hidden {
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="logo">
+    <img src="Logo.png" width="160" height="120" alt="Company Logo">
+  </div>
+  <div class="form-container">
+    <form id="createAccountForm">
+      <div class="form" id="registrationForm">
+        <h2>Create Account</h2>
+        <div class="form-group">
+          <label for="firstName">First Name</label>
+          <input type="text" id="firstName" name="firstName" required>
+          <div class="error" id="firstNameError"></div>
+
+        </div>
+        <div class="form-group">
+          <label for="lastName">Last Name</label>
+          <input type="text" id="lastName" name="lastName" required>
+          <div class="error" id="lastNameError"></div>
+        </div>
+        <div class="form-group">
+          <label for="phone">Phone Number</label>
+          <input type="text" id="phone" name="phone" minlength="8" maxlength="8">
+        </div>
+        <div class="error" id="phoneNumberError"></div>
+        <button type="button" id="nextButton" onclick="next()">Next</button>
+      </div>
+
+      <div class="form hidden" id="passwordForm" style="left: 110%;">
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+        </div>
+
+        <div class="staff-id-role-group">
+          <div class="role-group">
+            <label for="role">Role</label>
+            <select id="role" onchange="showInputBox()">
+              <option value="">Select a role</option>
+              <option value="customer">Customer</option>
+              <option value="vehicle_sales">Vehicle Sales</option>
+              <option value="insurance_sales">Insurance Sales</option>
+            </select>
+          </div>
+          <div class="staff-id-group">
+            <span id="specificRoleText" class="hidden">StaffID:</span>
+            <input type="text" id="specificRoleInput" class="hidden" placeholder="Enter you StaffID">
+          </div>
+
+        </div>
+
+        
+
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" required minlength="8" maxlength="20">
+          <div class="error" id="passwordError"></div>
+
+        </div>
+        <div class="form-group">
+          <label for="confirmPassword">Confirm Password</label>
+          <input type="password" id="confirmPassword" name="confirmPassword" required minlength="8" maxlength="20">
+        </div>
+        <div class="button-container">
+          <button type="button" id="backButton" onclick="back()">Back</button>
+          <button type="submit" id="submitButton">Create Account</button>
+        </div>
+      </div>
+    </form>
+  </div>
+  <script>
+    // when chose some role show the inout box
+    function showInputBox() {
+      const roleSelect = document.getElementById('role');
+      const specificRoleInput = document.getElementById('specificRoleInput');
+      const specificRoleText = document.getElementById('specificRoleText');
+      if (roleSelect.value === 'vehicle_sales' || roleSelect.value === 'insurance_sales') {
+        specificRoleInput.classList.remove('hidden');
+        specificRoleText.classList.remove('hidden');
+      } else {
+        specificRoleInput.classList.add('hidden');
+        specificRoleText.classList.add('hidden');
+      }
+    }
+  </script>
+  <script>
+    document.getElementById('phone').addEventListener('input', function(e) {
+      this.value = this.value.replace(/[^0-9]/g, ''); // Replace non-numeric characters
+    });
+    var registrationForm = document.getElementById("registrationForm");
+    var passwordForm = document.getElementById("passwordForm");
+
+    function next() {
+      // Clear previous error messages
+      document.getElementById('firstNameError').textContent = '';
+      document.getElementById('lastNameError').textContent = '';
+      document.getElementById('phoneNumberError').textContent = '';
+
+      // Get input values
+      const firstName = document.getElementById('firstName').value.trim();
+      const lastName = document.getElementById('lastName').value.trim();
+      const phoneNumber = document.getElementById('phone').value.trim();
+
+      let isValid = true;
+
+      // Check each field and display errors if empty
+      if (!firstName) {
+        document.getElementById('firstNameError').textContent = 'Please enter your first name.';
+        isValid = false;
+      }
+      if (!lastName) {
+        document.getElementById('lastNameError').textContent = 'Please enter your last name.';
+        isValid = false;
+      }
+      if (!phoneNumber) {
+        document.getElementById('phoneNumberError').textContent = 'Please enter your phone number.';
+        isValid = false;
+      } else if (phoneNumber.length !== 8) {
+        document.getElementById('phoneNumberError').textContent = 'Phone number must be exactly 8 digits.';
+        isValid = false;
+      }
+
+      // If all fields are valid, proceed to the next step
+      if (isValid) {
+        registrationForm.style.left = "-110%"; // Move registration form out
+        passwordForm.style.left = "0";
+      }
+    }
+
+
+    function back() {
+      registrationForm.style.left = "0"; // Bring registration form back
+      passwordForm.style.left = "110%"; // Move password form out
+    }
+  </script>
+  <script>
+    document.getElementById('passwordError').textContent = '';
+    // check the passwor and the email valid in database
+    document.getElementById('createAccountForm').addEventListener('submit', (event) => {
+      event.preventDefault(); // Prevent the default form submission
+  
+      const firstName = document.getElementById('firstName').value;
+      const lastName = document.getElementById('lastName').value;
+      const phone = document.getElementById('phone').value;
+      const email = document.getElementById('email').value;
+      const password = document.getElementById('password').value;
+      const confirmPassword = document.getElementById('confirmPassword').value;
+      const role = document.getElementById('role').value;
+      const staffid = document.getElementById('specificRoleInput').value;
+
+      if(password !=confirmPassword){
+        return document.getElementById('passwordError').textContent = 'Please enter the same password.';
+      }
+      if(role == ""){
+        return alert("Please select the role");
+      }
+      if(role != "customer" && staffid.trim().length ==0 ){
+        return alert("Please enter your staffID");
+      }
+      const fullname = firstName + " " + lastName;
+
+
+
+      fetch('/register', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ fullname,phone,email, password, role, staffid}),
+      })
+      .then(response => {
+        if (response.ok) {
+            return response.text(); // Get the response text
+        } else {
+          return response.text().then(text => { alert(text);});
+        }
+    })
+    .then(data => {
+        if (data === 'true') {
+            // Redirect to another page on successful registration
+            alert("Create Success!")
+            window.location.href = 'Login.html'; // Change to your desired URL
+        }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+        alert('Registration failed.'+error); // Display an error message
+    });
+    });
+  </script>
+</body></html>
